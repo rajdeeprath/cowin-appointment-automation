@@ -1,5 +1,5 @@
 # Cowin Automation
-Simple android app to listen for SMS from NHPSMS and forward to a different location
+Simple android app to listen for SMS from NHPSMS and forward to a different location & a server side python program that requests OTP through govt portal
 
 [Read article] (https://flashvisions.com/general/cowin-automation-using-selenium-aws-cloud-and-custom-android-app/)
 
